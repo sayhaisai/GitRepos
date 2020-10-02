@@ -1,1 +1,1 @@
-"FileB Content version1" 
+"FileB Content version2" 
